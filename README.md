@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+My Certifications:
+<div style="">
+  <a href="https://www.credly.com/badges/da33e880-332b-4952-b983-f07834b9d06e?source=linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" style="width:100px;">
+  </a>
+</div>
 <!--
 **altug0/altug0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
