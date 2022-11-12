@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Tech Stack:
 <div style="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:100px"/>
